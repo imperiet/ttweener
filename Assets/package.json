@@ -1,0 +1,14 @@
+{
+    "name": "com.imperiet.TTweener",
+    "displayName": "TTweener",
+    "version": "0.0.1",
+    "description": "Crude Tweener made by Thor Sone",
+    "dependencies": {},
+    "homepage": "https://github.com/imperiet/ttweener",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/imperiet/ttweener.git"
+    },
+    "license": "MIT",
+    "author": "Imperiet (Thor Sone)"
+  }
